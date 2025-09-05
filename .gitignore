@@ -1,0 +1,5 @@
+qlora-aderencia*
+*.parquet
+my_data.pickle
+bkp_pickle.zip
+memory_qlora-aderencia-classes.balanced/
